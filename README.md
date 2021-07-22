@@ -1,0 +1,2 @@
+Prvi fajl na gitu
+
